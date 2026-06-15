@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Social",
+  "descripcion": "Se registró una pelea entre los vecinos del condominio 23"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Ruido excesivo en la construcción de edificios"
+}
